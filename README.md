@@ -1,8 +1,5 @@
-# Serverless-AI-Content-Hub-Auto-Tagging-Search-Platform-with-AWS-Terraform
-A production-ready, multi-AI processing platform that automates document/image analysis (Rekognition/Textract/Comprehend) with serverless scalability, Terraform-managed infrastructure, and cost optimization. Features secure uploads (S3+Cognito), CI/CD pipelines, and multi-region reliability—deployable with 1 CLI command.
+# 🚀 Serverless-AI-Content-Hub-Auto-Tagging-Search-Platform-with-AWS-Terraform
 
-
-# 🚀 [Serverless AI Content Hub]: Multi-AI Processing Platform on AWS
 
 **A Terraform-managed, serverless pipeline for automated document/image analysis using AWS AI services (Rekognition, Textract, Comprehend) with CI/CD and cost optimization.**
 
@@ -30,20 +27,5 @@ A production-ready, multi-AI processing platform that automates document/image a
 | AWS Step Functions | Orchestrate multi-step AI processing |
 | Terraform        | Infrastructure as Code (IaC)      |
 
-## 🚀 Getting Started
-### Prerequisites
-- AWS Account (Free Tier eligible)
-- Terraform v1.0+
-- AWS CLI configured
 
-### Deployment
-```bash
-# Clone repo
-git clone [YOUR_REPO_URL]
-cd serverless-ai-platform/infra
-
-# Initialize Terraform
-terraform init
-
-# Deploy (will create ~20 AWS resources)
-terraform apply -var="aws_region=us-east-1"
+[![Watch Demo](https://img.youtube.com/vi/[YOUR_VIDEO_ID]/0.jpg)](https://www.youtube.com/watch?v=[YOUR_VIDEO_ID])
